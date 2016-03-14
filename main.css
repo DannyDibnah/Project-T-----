@@ -1,0 +1,117 @@
+a {
+  text-decoration: none;
+}
+
+.wrapper {
+  max-width: 940px
+  margin: 0 auto;
+  color: #404040;
+  font-family: 'Roboto', sans-serif;
+}
+
+}
+
+body {
+background-color: pink;
+
+}
+
+img {
+ height:  500px;
+ width: 500px;
+ border-radius: 50%;
+}
+
+.main-nav {
+  width: 100%;
+  margin: 0 ;
+  height: 100px;
+  background: #80e5ff;
+  min-height: 5em;
+  padding: 0;
+  position:fixed;
+  text-align: center;
+  border-bottom-style: solid;
+  border-bottom-width: 8px;
+  border-bottom-color: #66c2ff;
+  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  top: 0;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-around;
+  font-weight: 700;
+  list-style-type: none;
+  margin: 20px auto;
+  padding:auto;
+}
+
+
+.nav li {
+  padding: 5px 10px 10px 10px;
+}
+ a {
+  transition: all .5s;
+}
+ a:hover {
+  color: #66c2ff;
+  text-shadow: white 2px 2px;
+}
+
+.nav .name {
+  font-family: "Permanent Marker";
+  font-size: 2.2em;
+  text-shadow: 2px 2px white;
+  
+}
+
+.nav a {
+font-size: 30px;
+ 
+}
+
+a {
+ font-family: "Roboto";
+  color: white;
+}
+
+
+.padding-fix {
+  padding-top: 125px;
+}
+
+body {
+background-color: #ffb3ff ;
+
+}
+
+.start-of-text {
+padding-top: 130px
+}
+
+.more {
+  list-style: none;
+  font-size: 20px;
+}
+
+h1 {
+  font-size: 3em;
+  color: #404040;
+}
+
+p {
+  font-size: 2em;
+  color: #404040;
+}
+
+footer {
+  font-size: 11px;
+  text-align: center;
+}
+
+
+
+
+
